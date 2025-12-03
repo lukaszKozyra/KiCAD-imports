@@ -1,0 +1,64 @@
+### Footprint positions - created on 2025-12-03T15:23:52+0100 ###
+### Printed by KiCad version 9.0.6
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                 Package                             PosX       PosY       Rot  Side
+BT1       Battery             XT30U-M                         -15.8078    48.0206  180.0000  bottom
+C1        100nF               0402C                            -6.8070    41.7064   90.0000  bottom
+C5        22uF                1206C                            -2.3070    35.3064    0.0000  bottom
+C6        22uF                1206C                            -2.3070    33.3064    0.0000  bottom
+C7        22uF                1206C                           -16.9070    35.4064   90.0000  bottom
+C8        22uF                1206C                           -14.8070    35.4064   90.0000  bottom
+C9        1uF                 0402C                            -3.9070    48.5064  -90.0000  bottom
+C10       1nF                 0402C                            -5.3070    36.3064  -90.0000  bottom
+C11       1uF                 0402C                            -1.7070    31.9064    0.0000  bottom
+C13       1uF                 0402C                            29.3929    21.0064  180.0000  bottom
+C14       100nF               0402C                            17.6929     7.9064    0.0000  bottom
+C15       75pF                0402C                            -0.6070    38.9064    0.0000  bottom
+C16       1.5nF               0402C                            -0.6070    37.1064  180.0000  bottom
+C19       10uF                4X5.4                            18.3929    11.1064   90.0000  bottom
+C20       100nF               0402C                            22.6929     2.3064   90.0000  bottom
+C21       47uF                5X5.4                            10.0930     2.1064  -90.0000  bottom
+C22       22pF                0402C                             3.5929     9.3064  -90.0000  bottom
+C29       100nF               0402C                             7.7593    31.0006   90.0000  bottom
+C30       22pF                0402C                             6.4929    11.1064    0.0000  bottom
+C34       10nF                0402C                             4.7929    18.6064    0.0000  bottom
+C35       1nF                 0402C                             4.7930    17.7064    0.0000  bottom
+C36       33nF                0402C                             6.3929    18.0064  -90.0000  bottom
+C38       Cap_Semi            0402C                             0.2929    15.7064  -90.0000  bottom
+C39       2.2nF               0402C                             1.7929    13.1064    0.0000  bottom
+C50       10nF                0402C                            -5.8070    43.8064    0.0000  bottom
+C51       100nF               0402C                            -7.2070    43.6064   90.0000  bottom
+E1        Antenna             Antenna_Pad                      -6.1407    15.0206  180.0000  bottom
+FD3       FID1X2R             Fiducial                        -20.5070    43.5064   90.0000  bottom
+FD4       FID1X2R             Fiducial                         -0.0070     0.0064   90.0000  bottom
+FD6       FID1X2R             Fiducial                         30.1929    49.1064   90.0000  bottom
+L1        1.5uH               FP-IHLP-2525CZ-FP_2_413x3-MFG   -11.9070    41.0064  180.0000  bottom
+P1        HX12501-A           HX12501-A                        25.0343    -0.2794   85.0000  bottom
+P2        HX12501-A           HX12501-A                        13.7343    -3.1294    0.0000  bottom
+P4        Plug                Shield_Antenna                    1.8093    17.3456   90.0000  bottom
+Q2        NCE2302             SOT-23                            8.7929    33.7064  180.0000  bottom
+R3        732k                0402R                            -1.4070    40.3064   90.0000  bottom
+R4        1K                  0402R                            -3.6070    46.0064    0.0000  bottom
+R6        82k                 0402R                             0.1929    39.8064  180.0000  bottom
+R8        26.1k               0402R                            -0.6407    37.9806  180.0000  bottom
+R9        102k                0402R                            -2.8070    37.5064    0.0000  bottom
+R11       237k                0402R                            -7.2070    38.9064   90.0000  bottom
+R14       10k                 0402R                            29.3929    20.1064  180.0000  bottom
+R15       0R                  0402R                            14.6929    43.5064  -90.0000  bottom
+R16       100R                0402R                            28.2929    43.5064   90.0000  bottom
+R24       10K                 0402R                             8.1929    36.0064  180.0000  bottom
+R25       1M                  0402R                             4.5930    11.8064  180.0000  bottom
+R27       2K                  0402R                             8.6929    31.0064  -90.0000  bottom
+R28       10K                 0402R                            17.4930    43.5064  -90.0000  bottom
+R30       22K                 0402R                             3.1929    18.0064   90.0000  bottom
+R32       100k                0402R                            11.2929    35.7064  -90.0000  bottom
+U4        ME4055AM6G-N        SOT-23-6                         -6.6071    47.0064   90.0000  bottom
+U9        TB6612FNG(O,C,8,EL  SSOP-24                          17.5929     2.9064   90.0000  bottom
+U10       TPS61088RHLT        TPS61088-QFN20                   -4.1071    40.7064    0.0000  bottom
+U12       ESP32_S3            ESP32_S3_WROOM_1                 12.9829    32.7564   90.0000  bottom
+U13       NRF24l01P           QFN20                             5.1979    14.8324  180.0000  bottom
+U14       2450BM14A0002       2450BM14A0002                     1.8929    14.5956  180.0000  bottom
+U16       74LVC2G14GW         SOT363                           14.8929    10.8064  -90.0000  bottom
+X1        C12668              SMD-3225_4P                       6.4929     8.9064    0.0000  bottom
+## End

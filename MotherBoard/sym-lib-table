@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "Motherboard-altium-import")(type "KiCad")(uri "${KIPRJMOD}/Motherboard-altium-import.kicad_sym")(options "")(descr ""))
+)
