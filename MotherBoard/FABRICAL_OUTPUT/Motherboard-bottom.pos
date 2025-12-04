@@ -1,0 +1,9 @@
+### Footprint positions - created on 2025-12-04T12:23:53+0100 ###
+### Printed by KiCad version 9.0.6
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val           Package                       PosX       PosY       Rot  Side
+L1        SZ421288N/64  LED-SEG-TH_SZ421288N-64    28.6000     4.9530  -90.0000  bottom
+SW1       FSM4JSMATR    TECO-FSM4JSMATR_V           4.3180    -0.4000  -90.0000  bottom
+SW2       FSM4JSMATR    TECO-FSM4JSMATR_V          52.9590    -0.4000  -90.0000  bottom
+## End
