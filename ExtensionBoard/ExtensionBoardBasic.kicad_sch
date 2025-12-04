@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "778f8232-5889-472b-ae59-831ad38083ea")
+	(uuid "47824f5f-22b1-4cbe-976e-a32f13b4f589")
 	(paper "A4")
 	(lib_symbols)
 	(sheet
@@ -20,7 +20,7 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "48e42765-e4f6-415e-a372-ef070780a2bd")
+		(uuid "cee18210-b08d-4f99-884e-04a44cfc4e8f")
 		(property "Sheetname" ""
 			(at 25.4 24.6884 0)
 			(effects
@@ -41,7 +41,7 @@
 		)
 		(instances
 			(project "ExtensionBoardBasic"
-				(path "/778f8232-5889-472b-ae59-831ad38083ea"
+				(path "/47824f5f-22b1-4cbe-976e-a32f13b4f589"
 					(page "2")
 				)
 			)

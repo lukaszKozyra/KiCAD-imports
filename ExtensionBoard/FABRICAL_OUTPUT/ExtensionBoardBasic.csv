@@ -1,0 +1,11 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;",,,,,,,,,,,";"";12;"";;;
+2;"J3";"HDR-TH_15P-P2.54-V-M-R3-C15-S2.54";1;"KH-2.54PH180-3X15P-L11.5";;;
+3;"J2";"HDR-TH_30P-P2.54-V-F-R2-C15-S2.54";1;"PM2.54-2*15";;;
+4;"J1";"HDR-TH_15P-P2.54-V-F";1;"KH-2.54FH-1X15P-H8.5";;;
+5;"F1";"0805";1;"JSMD0805-110";;;
+6;"C1,C2";"0402C";2;"1uF";;;
+7;"R1,R2";"0402R";2;"5.1k";;;
+8;"U1";"SOT143B";1;"Unidirectional 5.5V 6V SOT-143 Diodes - ESD RoHS";;;
+9;"U2";"SOT-23";1;"C193852";;;
+10;"USB1";"C167321";1;"C167321";;;
